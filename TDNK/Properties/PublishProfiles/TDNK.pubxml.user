@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuaqQk6ZpkkiMaul56sbrdgAAAAACAAAAAAAQZgAAAAEAACAAAABisVsmY124h7puR2U/9IViLiN0HVfoHzO6IHcTtDt1zAAAAAAOgAAAAAIAACAAAAAarSmtzK1MRfSbbRdJFxN4q2HGOlpa2iPV+DsCZ0Z0AyAAAACT96P8pnt7XxNwPo4TaQSoJv+LZkHh7BGgXTyu6IXIyUAAAABOpcYrZxMI7z0typfjPHqpp+KZgZKTrWUkWhXLsgSMc7bI1YuWuL/vP7WND698IFK85z5f3b7S3Qgr9mIaHG9S</EncryptedPassword>
+    <_PublishTargetUrl>ftp://thaoduocnhapkhau.somee.com/www.thaoduocnhapkhau.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>10/30/2014 14:35:24</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>12/15/2013 00:04:02</publishTime>
+    </File>
+    <File Include="bin/AjaxMin.dll">
+      <publishTime>12/05/2013 05:25:36</publishTime>
+    </File>
+    <File Include="bin/ar/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:03</publishTime>
+    </File>
+    <File Include="bin/cs/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:03</publishTime>
+    </File>
+    <File Include="bin/de/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:03</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/05/2013 05:25:45</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/de/System.Spatial.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/es/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:03</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/05/2013 05:25:45</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/es/System.Spatial.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/fr/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:03</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/05/2013 05:25:45</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/fr/System.Spatial.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/he/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:04</publishTime>
+    </File>
+    <File Include="bin/hi/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:04</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>12/05/2013 05:25:36</publishTime>
+    </File>
+    <File Include="bin/it/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:04</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/05/2013 05:25:45</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/it/System.Spatial.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/ja/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:04</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/ja/System.Spatial.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/ko/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:04</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/ko/System.Spatial.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Edm.dll">
+      <publishTime>12/05/2013 05:25:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.OData.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/nl/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:04</publishTime>
+    </File>
+    <File Include="bin/pl/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:05</publishTime>
+    </File>
+    <File Include="bin/pt/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:04</publishTime>
+    </File>
+    <File Include="bin/ru/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:05</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/ru/System.Spatial.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/System.Spatial.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/TDNK.dll">
+      <publishTime>11/10/2014 10:00:41</publishTime>
+    </File>
+    <File Include="bin/tr-TR/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:05</publishTime>
+    </File>
+    <File Include="bin/zh-CHS/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:05</publishTime>
+    </File>
+    <File Include="bin/zh-CHT/AjaxControlToolkit.resources.dll">
+      <publishTime>12/15/2013 00:04:05</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Spatial.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/System.Spatial.resources.dll">
+      <publishTime>12/05/2013 05:25:46</publishTime>
+    </File>
+    <File Include="css/menustyle.css">
+      <publishTime>11/05/2014 16:33:35</publishTime>
+    </File>
+    <File Include="css/skin.css">
+      <publishTime>11/10/2014 10:15:04</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>11/05/2014 15:43:30</publishTime>
+    </File>
+    <File Include="css/Verticalstyles.css">
+      <publishTime>11/10/2014 10:13:51</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/30/2014 14:39:11</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>11/07/2014 08:57:00</publishTime>
+    </File>
+    <File Include="images/banner.png">
+      <publishTime>11/05/2014 11:36:32</publishTime>
+    </File>
+    <File Include="images/circles-green.jpg">
+      <publishTime>11/07/2014 09:28:39</publishTime>
+    </File>
+    <File Include="images/jGlzr.png">
+      <publishTime>11/10/2014 08:57:30</publishTime>
+    </File>
+    <File Include="images/logo.jpg">
+      <publishTime>11/07/2014 14:28:57</publishTime>
+    </File>
+    <File Include="images/nen.jpg">
+      <publishTime>11/05/2014 11:31:41</publishTime>
+    </File>
+    <File Include="Master.Master">
+      <publishTime>10/30/2014 14:31:57</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>11/10/2014 10:13:35</publishTime>
+    </File>
+    <File Include="Slider/img/a01.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a02.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a03.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a04.png">
+      <publishTime>04/18/2014 08:13:35</publishTime>
+    </File>
+    <File Include="Slider/img/a06.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a07.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a08.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a09.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a10.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a11.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a12.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a13.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a14.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a15.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a16.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a17.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a18.png">
+      <publishTime>04/18/2014 08:48:38</publishTime>
+    </File>
+    <File Include="Slider/img/a19.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a20.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/a21.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/b02.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/b03.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/b05.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/b06.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/b07.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/b10.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/b11.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/b12.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/b13.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/b14.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/b16.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/b17.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/b18.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/b20.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/b21.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/back.jpg">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/browser-icons.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/close.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/Icon-Slider-12-No-jQuery.png">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/loading.gif">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/loading2.gif">
+      <publishTime>02/20/2014 17:23:21</publishTime>
+    </File>
+    <File Include="Slider/img/play.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="Slider/img/t01.png">
+      <publishTime>02/20/2014 17:23:23</publishTime>
+    </File>
+    <File Include="Slider/img/tdnk/img1.jpg">
+      <publishTime>11/07/2014 15:24:37</publishTime>
+    </File>
+    <File Include="Slider/img/tdnk/img2.jpg">
+      <publishTime>11/07/2014 15:24:53</publishTime>
+    </File>
+    <File Include="Slider/img/tdnk/img3.jpg">
+      <publishTime>11/07/2014 15:25:25</publishTime>
+    </File>
+    <File Include="Slider/js/jquery-1.9.1.min.js">
+      <publishTime>02/20/2014 17:23:23</publishTime>
+    </File>
+    <File Include="Slider/js/jssor.js">
+      <publishTime>10/26/2014 11:25:45</publishTime>
+    </File>
+    <File Include="Slider/js/jssor.player.ytiframe.js">
+      <publishTime>10/12/2014 18:24:00</publishTime>
+    </File>
+    <File Include="Slider/js/jssor.player.ytiframe.min.js">
+      <publishTime>10/26/2014 11:36:25</publishTime>
+    </File>
+    <File Include="Slider/js/jssor.slider.debug.min.js">
+      <publishTime>04/16/2014 06:35:04</publishTime>
+    </File>
+    <File Include="Slider/js/jssor.slider.js">
+      <publishTime>10/26/2014 11:28:34</publishTime>
+    </File>
+    <File Include="Slider/js/jssor.slider.min.js">
+      <publishTime>10/26/2014 11:36:15</publishTime>
+    </File>
+    <File Include="Slider/js/jssor.slider.mini.js">
+      <publishTime>10/26/2014 11:36:18</publishTime>
+    </File>
+    <File Include="Slider/js/jssor.sliderc.mini.js">
+      <publishTime>10/26/2014 11:36:20</publishTime>
+    </File>
+    <File Include="Slider/js/jssor.sliders.mini.js">
+      <publishTime>10/26/2014 11:36:23</publishTime>
+    </File>
+    <File Include="Slider/panel/Sliderpanel.ascx">
+      <publishTime>11/07/2014 15:45:12</publishTime>
+    </File>
+    <File Include="SliderBanner.ascx">
+      <publishTime>11/05/2014 18:24:03</publishTime>
+    </File>
+    <File Include="SliderBanner/img/b03.png">
+      <publishTime>02/20/2014 17:23:22</publishTime>
+    </File>
+    <File Include="SliderBanner/img/landscape/01.jpg">
+      <publishTime>11/05/2014 18:19:39</publishTime>
+    </File>
+    <File Include="SliderBanner/img/landscape/02.jpg">
+      <publishTime>11/05/2014 18:19:54</publishTime>
+    </File>
+    <File Include="SliderBanner/img/landscape/03.jpg">
+      <publishTime>11/05/2014 18:20:13</publishTime>
+    </File>
+    <File Include="SliderBanner/img/landscape/04.jpg">
+      <publishTime>11/05/2014 18:20:27</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jquery-1.9.1.min.js">
+      <publishTime>02/20/2014 17:23:23</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.js">
+      <publishTime>10/26/2014 11:25:45</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.player.ytiframe.compress.bat">
+      <publishTime>09/28/2014 17:03:01</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.player.ytiframe.js">
+      <publishTime>10/12/2014 18:24:00</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.player.ytiframe.min.js">
+      <publishTime>10/26/2014 11:36:25</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.slider.debug.min.compress.bat">
+      <publishTime>09/28/2014 17:02:57</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.slider.debug.min.js">
+      <publishTime>04/16/2014 06:35:04</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.slider.js">
+      <publishTime>10/26/2014 11:28:34</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.slider.min.compress.bat">
+      <publishTime>09/28/2014 17:02:57</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.slider.min.js">
+      <publishTime>10/26/2014 11:36:15</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.slider.mini.compress.bat">
+      <publishTime>10/10/2014 21:08:30</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.slider.mini.js">
+      <publishTime>10/26/2014 11:36:18</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.sliderc.mini.compress.bat">
+      <publishTime>09/29/2014 09:38:11</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.sliderc.mini.js">
+      <publishTime>10/26/2014 11:36:20</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.sliders.mini.compress.bat">
+      <publishTime>09/29/2014 09:37:34</publishTime>
+    </File>
+    <File Include="SliderBanner/js/jssor.sliders.mini.js">
+      <publishTime>10/26/2014 11:36:23</publishTime>
+    </File>
+    <File Include="SliderBanner/tool/Jssor.Compress.exe">
+      <publishTime>10/18/2014 17:54:52</publishTime>
+    </File>
+    <File Include="SliderBanner/transition-builder/caption-transition-builder-controller.min.js">
+      <publishTime>10/26/2014 11:36:27</publishTime>
+    </File>
+    <File Include="SliderBanner/transition-builder/slideshow-transition-builder-controller.min.js">
+      <publishTime>10/26/2014 11:36:27</publishTime>
+    </File>
+    <File Include="SliderBanner/transition-builder/tool-caption-transition-builder.html">
+      <publishTime>09/28/2014 14:47:47</publishTime>
+    </File>
+    <File Include="SliderBanner/transition-builder/tool-slideshow-transition-builder.html">
+      <publishTime>09/28/2014 14:47:48</publishTime>
+    </File>
+    <File Include="SliderBanner/transitions/caption-transition-builder-controller.min.js">
+      <publishTime>10/26/2014 11:36:27</publishTime>
+    </File>
+    <File Include="SliderBanner/transitions/caption-transitions%28390%29.html">
+      <publishTime>06/10/2014 15:25:13</publishTime>
+    </File>
+    <File Include="SliderBanner/transitions/slideshow-transition-builder-controller.min.js">
+      <publishTime>10/26/2014 11:36:27</publishTime>
+    </File>
+    <File Include="SliderBanner/transitions/slideshow-transitions%28360%29.html">
+      <publishTime>06/10/2014 15:25:13</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/06/2014 10:53:51</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
