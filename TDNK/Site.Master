@@ -98,8 +98,8 @@
 
                     </td>
                     <td style="width: 200px;vertical-align: top">
-                        <div style="background-image: url('images/circles-green.jpg'); font-family: 'Times New Roman', Times, serif; font-size: large; color: #FFFFFF; text-align: center; font-weight: 700;">Giỏ hàng của bạn</div>
-                        <div style="background-position: center center; background-image:url('images/jGlzr.png')"></div>
+                        <div style="background-image: url('images/circles-green.jpg'); font-family: 'Times New Roman', Times, serif; font-size: large; color: #FFFFFF; text-align: center; font-weight: 700;">Sản phẩm bán chạy</div>
+                        <div style="background-position: center center; background-image:url('images/jGlzr.png'); background-repeat: repeat;"></div>
                     </td>
                 </tr>
             </table>
