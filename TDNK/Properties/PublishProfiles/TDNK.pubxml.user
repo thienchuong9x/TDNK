@@ -140,7 +140,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/05/2013 05:25:46</publishTime>
     </File>
     <File Include="bin/TDNK.dll">
-      <publishTime>11/10/2014 10:00:41</publishTime>
+      <publishTime>11/12/2014 10:05:08</publishTime>
     </File>
     <File Include="bin/tr-TR/AjaxControlToolkit.resources.dll">
       <publishTime>12/15/2013 00:04:05</publishTime>
@@ -206,7 +206,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/30/2014 14:31:57</publishTime>
     </File>
     <File Include="Site.Master">
-      <publishTime>11/10/2014 10:13:35</publishTime>
+      <publishTime>11/12/2014 10:02:32</publishTime>
     </File>
     <File Include="Slider/img/a01.png">
       <publishTime>02/20/2014 17:23:21</publishTime>
@@ -337,6 +337,24 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Slider/img/t01.png">
       <publishTime>02/20/2014 17:23:23</publishTime>
     </File>
+    <File Include="Slider/img/tdnk/hinh1.jpg">
+      <publishTime>11/12/2014 09:18:45</publishTime>
+    </File>
+    <File Include="Slider/img/tdnk/hinh2.jpg">
+      <publishTime>11/12/2014 09:26:41</publishTime>
+    </File>
+    <File Include="Slider/img/tdnk/hinh3.jpg">
+      <publishTime>11/12/2014 09:37:27</publishTime>
+    </File>
+    <File Include="Slider/img/tdnk/hinh4.jpg">
+      <publishTime>11/12/2014 09:45:36</publishTime>
+    </File>
+    <File Include="Slider/img/tdnk/hinh5.jpg">
+      <publishTime>11/12/2014 09:49:43</publishTime>
+    </File>
+    <File Include="Slider/img/tdnk/hinh6.jpg">
+      <publishTime>11/12/2014 09:58:57</publishTime>
+    </File>
     <File Include="Slider/img/tdnk/img1.jpg">
       <publishTime>11/07/2014 15:24:37</publishTime>
     </File>
@@ -377,7 +395,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/26/2014 11:36:23</publishTime>
     </File>
     <File Include="Slider/panel/Sliderpanel.ascx">
-      <publishTime>11/07/2014 15:45:12</publishTime>
+      <publishTime>11/12/2014 10:02:29</publishTime>
     </File>
     <File Include="SliderBanner.ascx">
       <publishTime>11/05/2014 18:24:03</publishTime>
