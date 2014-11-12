@@ -166,15 +166,23 @@
         <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 960px; height: 300px;
             overflow: hidden;" class="fix_width">
             <div>
-                <a u=image href="#"><img src="Slider/img/tdnk/img1.jpg" /></a>
+                <a u=image href="#"><img src="Slider/img/tdnk/hinh1.jpg" /></a>
             </div>
             <div>
-                <a u=image href="#"><img src="Slider/img/tdnk/img2.jpg" /></a>
+                <a u=image href="#"><img src="Slider/img/tdnk/hinh2.jpg" /></a>
             </div>
             <div>
-                <a u=image href="#"><img src="Slider/img/tdnk/img3.jpg" /></a>
+                <a u=image href="#"><img src="Slider/img/tdnk/hinh3.jpg" /></a>
             </div>
-           
+            <div>
+                <a u=image href="#"><img src="Slider/img/tdnk/hinh4.jpg" /></a>
+            </div>
+             <div>
+                <a u=image href="#"><img src="Slider/img/tdnk/hinh5.jpg" /></a>
+            </div>
+             <div>
+                <a u=image href="#"><img src="Slider/img/tdnk/hinh6.jpg" /></a>
+            </div>
         </div>
         
         <!-- Bullet Navigator Skin Begin -->

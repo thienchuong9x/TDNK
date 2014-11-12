@@ -76,6 +76,12 @@
     <Content Include="Slider\img\browser-icons.png" />
     <Content Include="Slider\img\loading.gif" />
     <Content Include="Slider\img\loading2.gif" />
+    <Content Include="Slider\img\tdnk\hinh1.jpg" />
+    <Content Include="Slider\img\tdnk\hinh2.jpg" />
+    <Content Include="Slider\img\tdnk\hinh3.jpg" />
+    <Content Include="Slider\img\tdnk\hinh4.jpg" />
+    <Content Include="Slider\img\tdnk\hinh5.jpg" />
+    <Content Include="Slider\img\tdnk\hinh6.jpg" />
     <Content Include="Slider\img\tdnk\img1.jpg" />
     <Content Include="Slider\img\tdnk\img2.jpg" />
     <Content Include="Slider\img\tdnk\img3.jpg" />
