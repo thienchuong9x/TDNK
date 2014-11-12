@@ -338,7 +338,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/20/2014 17:23:23</publishTime>
     </File>
     <File Include="Slider/img/tdnk/hinh1.jpg">
-      <publishTime>11/12/2014 09:18:45</publishTime>
+      <publishTime>11/12/2014 10:24:58</publishTime>
     </File>
     <File Include="Slider/img/tdnk/hinh2.jpg">
       <publishTime>11/12/2014 09:26:41</publishTime>

@@ -12,12 +12,14 @@
         .auto-style1 {
             width: 100%;
         }
+       
     </style>
 </head>
 <body style="background-image: url('/images/nen.jpg'); background-repeat: repeat;">
     <form id="form1" runat="server" style="height: auto; min-height: 100%; background-color: white" class="fix_width">
         <div class="fix_width" id="Wallpaper">
             <div class="menu_top" style="background-image: url('/images/logo.jpg');height:100px">
+                
             </div>
             <!-------------main menu-------------->
 
