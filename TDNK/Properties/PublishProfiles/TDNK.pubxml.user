@@ -179,7 +179,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/05/2014 15:43:30</publishTime>
     </File>
     <File Include="css/Verticalstyles.css">
-      <publishTime>11/10/2014 10:13:51</publishTime>
+      <publishTime>11/13/2014 11:59:43</publishTime>
     </File>
     <File Include="Global.asax">
       <publishTime>10/30/2014 14:39:11</publishTime>
@@ -206,7 +206,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/30/2014 14:31:57</publishTime>
     </File>
     <File Include="Site.Master">
-      <publishTime>11/12/2014 10:02:32</publishTime>
+      <publishTime>11/13/2014 11:57:53</publishTime>
     </File>
     <File Include="Slider/img/a01.png">
       <publishTime>02/20/2014 17:23:21</publishTime>
