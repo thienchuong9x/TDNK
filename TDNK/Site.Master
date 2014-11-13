@@ -69,25 +69,16 @@
 
                             <div id='cssmenu1'>
                                 <ul>
-                                    <li><a href='#'>Home</a></li>
-                                    <li class='active has-sub'><a href='#'>Products</a>
-                                        <ul>
-                                            <li class='has-sub'><a href='#'>Product 1</a>
-                                                <ul>
-                                                    <li><a href='#'>Sub Product</a></li>
-                                                    <li><a href='#'>Sub Product</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class='has-sub'><a href='#'>Product 2</a>
-                                                <ul>
-                                                    <li><a href='#'>Sub Product</a></li>
-                                                    <li><a href='#'>Sub Product</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li><a href='#'>About</a></li>
-                                    <li><a href='#'>Contact</a></li>
+                                    <li><a href='#'>Thảo Dược OVATA</a></li>
+                                    <li><a href='#'>Thảo Dược NASULIN</a></li>                                 
+                                    <li><a href='#'>Thảo Dược CERY</a></li>
+                                    <li><a href='#'>Thảo Dược BILAND</a></li>
+                                    <li><a href='#'>Thảo Dược SECCO</a></li>
+                                    <li><a href='#'>Thảo Dược NAVA</a></li>
+                                    <li><a href='#'>Nhung Hươu Newzeland</a></li>
+                                    <li><a href='#'>Thảo Dược DAMI</a></li>
+                                    <li><a href='#'>Rượu SECCO</a></li>
+
                                 </ul>
                             </div>
 
