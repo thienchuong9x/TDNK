@@ -140,7 +140,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/05/2013 05:25:46</publishTime>
     </File>
     <File Include="bin/TDNK.dll">
-      <publishTime>11/12/2014 10:05:08</publishTime>
+      <publishTime>11/13/2014 14:46:14</publishTime>
     </File>
     <File Include="bin/tr-TR/AjaxControlToolkit.resources.dll">
       <publishTime>12/15/2013 00:04:05</publishTime>
@@ -185,7 +185,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/30/2014 14:39:11</publishTime>
     </File>
     <File Include="Home.aspx">
-      <publishTime>11/07/2014 08:57:00</publishTime>
+      <publishTime>11/13/2014 14:40:24</publishTime>
     </File>
     <File Include="images/banner.png">
       <publishTime>11/05/2014 11:36:32</publishTime>
@@ -206,7 +206,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/30/2014 14:31:57</publishTime>
     </File>
     <File Include="Site.Master">
-      <publishTime>11/13/2014 11:57:53</publishTime>
+      <publishTime>11/13/2014 13:50:54</publishTime>
     </File>
     <File Include="Slider/img/a01.png">
       <publishTime>02/20/2014 17:23:21</publishTime>
