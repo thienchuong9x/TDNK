@@ -185,7 +185,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/30/2014 14:39:11</publishTime>
     </File>
     <File Include="Home.aspx">
-      <publishTime>11/13/2014 14:40:24</publishTime>
+      <publishTime>11/14/2014 09:33:41</publishTime>
     </File>
     <File Include="images/banner.png">
       <publishTime>11/05/2014 11:36:32</publishTime>
@@ -350,7 +350,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/12/2014 09:45:36</publishTime>
     </File>
     <File Include="Slider/img/tdnk/hinh5.jpg">
-      <publishTime>11/12/2014 09:49:43</publishTime>
+      <publishTime>11/14/2014 09:44:58</publishTime>
     </File>
     <File Include="Slider/img/tdnk/hinh6.jpg">
       <publishTime>11/12/2014 09:58:57</publishTime>
