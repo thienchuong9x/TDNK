@@ -72,6 +72,7 @@
     <Content Include="images\logo.jpg" />
     <Content Include="images\nen.jpg" />
     <Content Include="css\style.css" />
+    <Content Include="Sanphamchung.ascx" />
     <Content Include="Slider\img\a17.png" />
     <Content Include="Slider\img\browser-icons.png" />
     <Content Include="Slider\img\loading.gif" />
@@ -112,6 +113,13 @@
       <DependentUpon>Home.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sanphamchung.ascx.cs">
+      <DependentUpon>Sanphamchung.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Sanphamchung.ascx.designer.cs">
+      <DependentUpon>Sanphamchung.ascx</DependentUpon>
+    </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
