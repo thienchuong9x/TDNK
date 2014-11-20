@@ -11,6 +11,7 @@ namespace TDNK
     {
         public string MaLoaiSp { get; set; }
         public string MaSp { get; set; }
+
         protected void Page_Load(object sender, EventArgs e)
         {
 
